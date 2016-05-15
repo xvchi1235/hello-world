@@ -1,4 +1,4 @@
 # hello-world
 welcome
 
-Here's my try of guiding.
+Here's my try of guide
